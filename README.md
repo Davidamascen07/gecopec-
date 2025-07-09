@@ -249,9 +249,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Desenvolvido por:** [Seu Nome]
-- 📧 Email: seu.email@exemplo.com
+- 📧 Email: davidddf.frota@gmail.com
 - 🌐 Website: [seu-website.com](https://seu-website.com)
-- 💼 LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-linkedin)
+- 💼 LinkedIn: [seu-linkedin](https://linkedin.com/in/damascenodf/)
 
 ## 🙏 Agradecimentos
 
