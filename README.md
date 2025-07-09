@@ -248,10 +248,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Desenvolvido por:** [Seu Nome]
+**Desenvolvido por:** [David Damasceno]
 - 📧 Email: davidddf.frota@gmail.com
 - 🌐 Website: [seu-website.com](https://seu-website.com)
-- 💼 LinkedIn: [seu-linkedin](https://linkedin.com/in/damascenodf/)
+- 💼 LinkedIn: [damascenodf](https://linkedin.com/in/damascenodf/)
 
 ## 🙏 Agradecimentos
 
